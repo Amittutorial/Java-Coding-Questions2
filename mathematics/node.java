@@ -1,0 +1,6 @@
+/**
+ * node
+ */
+public class node {
+
+}

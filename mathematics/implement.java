@@ -1,0 +1,6 @@
+/**
+ * implement
+ */
+public class implement {
+
+}
